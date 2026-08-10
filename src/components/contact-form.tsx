@@ -3,7 +3,7 @@
 import { useState, type FormEvent } from "react";
 import { motion } from "framer-motion";
 
-const RECIPIENT = "evan06.eg@gmail.com";
+const RECIPIENT = "evan.mediapump@gmail.com";
 
 export default function ContactForm() {
   const [sent, setSent] = useState(false);

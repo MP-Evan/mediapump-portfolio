@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "Contacte MediaPump pour discuter de ton contenu vidéo.",
 };
 
-const email = "evan06.eg@gmail.com";
+const email = "evan.mediapump@gmail.com";
 
 export default function ContactPage() {
   return (
